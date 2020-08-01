@@ -1,4 +1,4 @@
-# freecodecamp
+# freecodecamp projects :tent: :fire: :chocolate_bar:
 
 ### Responsive Web Design Projects
 
